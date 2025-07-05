@@ -1,0 +1,19 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "content-editor-wp-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/contentEditorWp/ContentEditorWpWebPart.js",
+          "manifest": "./src/webparts/contentEditorWp/ContentEditorWpWebPart.manifest.json",
+          "outputPath": "./dist/content-editor-web-part.js"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "ContentEditorWpWebPartStrings": "lib/webparts/contentEditorWp/loc/{locale}.js"
+  }
+}

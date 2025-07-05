@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "SEI-Solutions",
+    "id": "a6db14c0-c4ab-4790-8e2e-d6d128b1eaf2",
+    "version": "1.0.0.2",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/SEI-Solutions.sppkg"
+  }
+}

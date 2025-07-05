@@ -1,0 +1,22 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "e59e7718-4d38-4a01-b16b-b5fa14c8d9bf",
+  "alias": "ContentEditorWpWebPart",
+  "componentType": "WebPart",
+  "version": "*",
+  "manifestVersion": 2,
+  "requiresCustomScript": false,
+  "preconfiguredEntries": [{
+    "groupId": "5c03119e-3074-46fd-976b-c60198311f70",
+    "group": { "default": "Other" },
+    "title": { "default": "ContentEditorWP" },
+    "description": { "default": "Content editor for modern pages" },
+    "officeFabricIconFontName": "JS",
+    "properties": {
+      "script": "",
+      "title": "The Modern Content Editor WebPart",
+      "removePadding": false,
+      "spPageContextInfo": false
+    }
+  }]
+}

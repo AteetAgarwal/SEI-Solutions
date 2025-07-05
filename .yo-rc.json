@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.9.1",
+    "libraryName": "sei-solutions",
+    "libraryId": "a6db14c0-c4ab-4790-8e2e-d6d128b1eaf2",
+    "environment": "onprem19",
+    "packageManager": "npm",
+    "isCreatingSolution": true,
+    "componentType": "webpart"
+  }
+}
