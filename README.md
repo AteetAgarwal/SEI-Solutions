@@ -24,3 +24,5 @@ gulp test - TODO
 gulp serve - TODO
 gulp bundle - TODO
 gulp package-solution - TODO
+# SEI-Solutions
+Content Editor Webpart for modern SharePoint
